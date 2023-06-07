@@ -1,4 +1,3 @@
-# sharegrim
 ```
  _____ _                               _           
 /  ___| |                             (_)          
@@ -9,5 +8,19 @@
                              __/ |                 
                             |___/                  
 ```
-# Installation
+# 1 - Introduction
+
+Sharegrim is a bash script to use the power of Sharenix on your wayland compositor with ease!
+
+# 2 - Installation
+
+```
+git clone https://MopigamesYT/sharegrim.git
+cd sharegrim
+chmod +x ./install.sh
+./install.sh
+```
+# 3 - Usage
+### 3.1 - Configurating sharenix
+
 
