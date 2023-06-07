@@ -14,6 +14,8 @@ Sharegrim is a bash script to use the power of Sharenix on your wayland composit
 
 # 2 - Installation
 
+This script works only on arch linux. NOTE: You need to have the Paru AUR helper installed on your system to install the dependencies.
+
 ```
 git clone https://github.com/MopigamesYT/sharegrim.git
 cd sharegrim
