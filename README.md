@@ -28,4 +28,4 @@ https://github.com/Francesco149/sharenix/blob/master/README.md#usage
 ### 3.2.1 - By launching the script manually
 Just run ~/.config/sharegrim/screenshot.sh
 ### 3.2.2 - By binding it using your wayland compositor configuration
-Using hyprland: bind = , Print, exec, ~/.config/sharegrim/screenshot.sh
+example using hyprland: `bind = , Print, exec, ~/.config/sharegrim/screenshot.sh`
