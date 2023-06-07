@@ -11,7 +11,7 @@ if [ -d "$HOME/screenshots/" ]
 fi
 if [ -z ${isSet} ]
   then
-    mplayer https://www.myinstants.com/media/sounds/iphone-screenshot.mp3
+    mplayer "https://www.myinstants.com/media/sounds/iphone-screenshot.mp3"
     output=$(sharenix -m=f $HOME/screenshots/screenshot-$imgDate.png)
     scrurl=$(echo $output | grep -o "http[s]\?://[^[:space:]]\+")
       if [ -z ${scrurl} ];
