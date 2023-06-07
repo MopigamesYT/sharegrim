@@ -15,7 +15,7 @@ Sharegrim is a bash script to use the power of Sharenix on your wayland composit
 # 2 - Installation
 
 ```
-git clone https://MopigamesYT/sharegrim.git
+git clone https://github.com/MopigamesYT/sharegrim.git
 cd sharegrim
 chmod +x ./install.sh
 ./install.sh
