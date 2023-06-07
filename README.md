@@ -21,6 +21,11 @@ chmod +x ./install.sh
 ./install.sh
 ```
 # 3 - Usage
-### 3.1 - Configurating sharenix
+## 3.1 - Configurating Sharenix
+https://github.com/Francesco149/sharenix/blob/master/README.md#usage
 
-
+## 3.2 - Using Sharegrim
+### 3.2.1 - By launching the script manually
+Just run ~/.config/sharegrim/screenshot.sh
+### 3.2.2 - By binding it using your wayland compositor configuration
+Using hyprland: bind = , Print, exec, ~/.config/sharegrim/screenshot.sh
